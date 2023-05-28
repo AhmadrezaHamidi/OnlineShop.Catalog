@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{2687DEF2-A08F-4641-A34B-8867AF5CFC7A}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShopeWeb.Src/Program.cs">
+    <Files>
+      <File FileName="ShopWeb.Base/Repository/IRepository.cs" Line="18" Column="60" />
+      <File FileName="ShopWeb.Base/Repository/Extentions/ExtentionMethods.cs" Line="7" Column="11" />
+      <File FileName="ShopWeb.Base/BaseControllers/MHBaseController.cs" Line="14" Column="32" />
+      <File FileName="ShopWeb.Base/PagedList/IQueryablePageListExtensions.cs" Line="11" Column="23" />
+      <File FileName="ShopWeb.Base/PagedList/ITotalPagedResult.cs" Line="22" Column="1" />
+      <File FileName="ShopWeb.Base/PagedList/PagedList.cs" Line="192" Column="53" />
+      <File FileName="ShopWeb.Base/Repository/IRepositoryFactory.cs" Line="12" Column="23" />
+      <File FileName="ShopWeb.Base/UniteOfWork/IUnitOfWork.cs" Line="56" Column="1" />
+      <File FileName="ShopWeb.Base/UniteOfWork/UnitOfWork.cs" Line="59" Column="40" />
+      <File FileName="ShopWeb.Base/UniteOfWork/UnitOfWorkServiceCollectionExtensions.cs" Line="33" Column="59" />
+      <File FileName="ShopWeb.Base/PagedList/public static class IEnumerablePagedListExtensions.cs" Line="30" Column="78" />
+      <File FileName="ShopWeb.Base/PagedList/IPagedList.cs" Line="46" Column="6" />
+      <File FileName="ShopWeb.Base/PagedList/UnitOfWork/IRepository.cs" Line="488" Column="6" />
+      <File FileName="ShopWeb.Base/PagedList/UnitOfWork/IRepositoryFactory.cs" Line="14" Column="6" />
+      <File FileName="ShopWeb.Base/PagedList/UnitOfWork/IUnitOfWork.cs" Line="65" Column="6" />
+      <File FileName="ShopWeb.Base/PagedList/UnitOfWork/IUnitOfWorkOfT.cs" Line="24" Column="6" />
+      <File FileName="ShopWeb.Base/PagedList/UnitOfWork/Repository.cs" Line="1033" Column="6" />
+      <File FileName="ShopWeb.Base/PagedList/UnitOfWork/UnitOfWork.cs" Line="30" Column="1" />
+      <File FileName="ShopWeb.Base/PagedList/UnitOfWork/UnitOfWorkServiceCollectionExtensions.cs" Line="116" Column="1" />
+      <File FileName="ShopeWeb.Src/Program.cs" Line="15" Column="1" />
+      <File FileName="ShopeWeb.Src/ShopContext.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ShopWeb" expanded="True">
+            <Node name="ShopeWeb.Src" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="ShopWeb.Base" expanded="True">
+              <Node name="PagedList" expanded="True">
+                <Node name="UnitOfWork" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ShopeWeb.Src PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+</Properties>
