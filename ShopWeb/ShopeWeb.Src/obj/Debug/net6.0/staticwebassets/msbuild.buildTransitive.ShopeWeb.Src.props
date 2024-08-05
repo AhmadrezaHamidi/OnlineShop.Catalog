@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../buildMultiTargeting/ShopeWeb.Src.props" />
-</Project>

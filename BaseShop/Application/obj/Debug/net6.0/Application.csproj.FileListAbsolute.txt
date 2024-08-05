@@ -1,0 +1,15 @@
+/Users/ahmadhfr/Documents/Tallar/BaseShop/Application/bin/Debug/net6.0/Application.deps.json
+/Users/ahmadhfr/Documents/Tallar/BaseShop/Application/bin/Debug/net6.0/Application.dll
+/Users/ahmadhfr/Documents/Tallar/BaseShop/Application/bin/Debug/net6.0/Application.pdb
+/Users/ahmadhfr/Documents/Tallar/BaseShop/Application/bin/Debug/net6.0/Domain.dll
+/Users/ahmadhfr/Documents/Tallar/BaseShop/Application/bin/Debug/net6.0/Domain.pdb
+/Users/ahmadhfr/Documents/Tallar/BaseShop/Application/obj/Debug/net6.0/Application.csproj.AssemblyReference.cache
+/Users/ahmadhfr/Documents/Tallar/BaseShop/Application/obj/Debug/net6.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmadhfr/Documents/Tallar/BaseShop/Application/obj/Debug/net6.0/Application.AssemblyInfoInputs.cache
+/Users/ahmadhfr/Documents/Tallar/BaseShop/Application/obj/Debug/net6.0/Application.AssemblyInfo.cs
+/Users/ahmadhfr/Documents/Tallar/BaseShop/Application/obj/Debug/net6.0/Application.csproj.CoreCompileInputs.cache
+/Users/ahmadhfr/Documents/Tallar/BaseShop/Application/obj/Debug/net6.0/Applicat.44B5EDA2.Up2Date
+/Users/ahmadhfr/Documents/Tallar/BaseShop/Application/obj/Debug/net6.0/Application.dll
+/Users/ahmadhfr/Documents/Tallar/BaseShop/Application/obj/Debug/net6.0/refint/Application.dll
+/Users/ahmadhfr/Documents/Tallar/BaseShop/Application/obj/Debug/net6.0/Application.pdb
+/Users/ahmadhfr/Documents/Tallar/BaseShop/Application/obj/Debug/net6.0/ref/Application.dll

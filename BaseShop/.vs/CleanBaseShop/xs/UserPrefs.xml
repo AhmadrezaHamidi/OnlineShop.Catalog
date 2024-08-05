@@ -1,0 +1,85 @@
+﻿<Properties StartupConfiguration="{82747A52-0249-42FE-B3A2-EAA5D5E5D2E3}|Default">
+  <MonoDevelop.Ide.ItemProperties.Api PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Api/Controllers/UserController.cs">
+    <Files>
+      <File FileName="Domain/Abstractions/Entity.cs" />
+      <File FileName="Domain/Abstractions/Result.cs" />
+      <File FileName="Domain/Shop/Auth/User.cs" />
+      <File FileName="Domain/Shop/Product.cs" />
+      <File FileName="Domain/Shop/Cart.cs" />
+      <File FileName="Domain/Shop/CartItem.cs" />
+      <File FileName="Domain/Shop/Category.cs" />
+      <File FileName="Domain/Shop/Order.cs" />
+      <File FileName="Domain/Shop/OrderItem.cs" />
+      <File FileName="Domain/Abstractions/IRepository.cs" />
+      <File FileName="Infrastructure/Caching/CacheOptions.cs" />
+      <File FileName="Infrastructure/Configurations/UserConfiguration.cs" />
+      <File FileName="Infrastructure/Caching/CacheService.cs" />
+      <File FileName="Infrastructure/Data/Repositories/UserRepository.cs" />
+      <File FileName="Application/Abstractions/Behaviors/LoggingBehavior.cs" />
+      <File FileName="Application/Abstractions/Serilog/ISerilogService.cs" />
+      <File FileName="Application/Abstractions/Behaviors/QueryCachingBehavior.cs" />
+      <File FileName="Application/Caching/ICachedQuery.cs" />
+      <File FileName="Application/Caching/ICacheService.cs" />
+      <File FileName="Application/Messaging/ICommand.cs" />
+      <File FileName="Application/Messaging/ICommandHandler.cs" />
+      <File FileName="Application/Messaging/IQuery.cs" />
+      <File FileName="Application/Messaging/IQueryHandler.cs" />
+      <File FileName="Application/Exceptions/ConcurrencyException.cs" />
+      <File FileName="Application/Exceptions/ValidationError.cs" />
+      <File FileName="Application/DependencyInjection.cs" />
+      <File FileName="Application/Abstractions/Behaviors/ValidationBehavior.cs" />
+      <File FileName="Infrastructure/DependencyInjection.cs" />
+      <File FileName="Infrastructure/Infrastructure.csproj" />
+      <File FileName="Infrastructure/Configurations/CartItemConfiguration.cs" />
+      <File FileName="Infrastructure/Configurations/CategoryConfiguration.cs" />
+      <File FileName="Infrastructure/Configurations/OrderConfiguration.cs" />
+      <File FileName="Infrastructure/Configurations/OrderItemConfiguration.cs" />
+      <File FileName="Infrastructure/Configurations/UserConfiguration.CartConfiguration.cs" />
+      <File FileName="Infrastructure/Data/Repositories/ProductRepository.cs" />
+      <File FileName="Infrastructure/Data/Repositories/OrderItemRepository.cs" />
+      <File FileName="Infrastructure/OnlineStoreContext.cs" />
+      <File FileName="Infrastructure/Configurations/ProductConfiguration.cs" />
+      <File FileName="Api/Controllers/UserController.cs" Line="49" Column="76" />
+      <File FileName="Api/Abstraction/ApiVersions.cs" />
+      <File FileName="Application/User/Commands/CreateUserCommand.cs" />
+      <File FileName="Application/User/Commands/UpdateUserCommand.cs" />
+      <File FileName="Application/User/Commands/DeleteUserCommand.cs" />
+      <File FileName="Application/User/Queries/GetUserQuery.cs" />
+      <File FileName="Application/User/Queries/GetAllUsersQuery.cs" Line="7" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CleanBaseShop" expanded="True">
+            <Node name="Api" expanded="True">
+              <Node name="Abstraction" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="Application" expanded="True">
+              <Node name="User" expanded="True">
+                <Node name="Commands" expanded="True" />
+                <Node name="Queries" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Domain" expanded="True">
+              <Node name="Abstractions" expanded="True" />
+              <Node name="Shop" expanded="True">
+                <Node name="Auth" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Infrastructure" expanded="True">
+              <Node name="Configurations" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

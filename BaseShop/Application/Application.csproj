@@ -1,0 +1,45 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.9.1" />
+      <PackageReference Include="MediatR" Version="12.2.0" />
+      <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+      <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="8.0.0" />
+      <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+      <PackageReference Include="Serilog" Version="3.1.1" />
+    </ItemGroup>
+  
+    <ItemGroup>
+      <ProjectReference Include="..\Domain\Domain.csproj" />
+    </ItemGroup>
+    <ItemGroup>
+      <None Remove="Abstractions\" />
+      <None Remove="Abstractions\Behaviors\" />
+      <None Remove="Abstractions\Data\" />
+      <None Remove="Abstractions\Serilog\" />
+      <None Remove="Caching\" />
+      <None Remove="Messaging\" />
+      <None Remove="Exceptions\" />
+      <None Remove="User\" />
+      <None Remove="User\Commands\" />
+      <None Remove="User\Queries\" />
+    </ItemGroup>
+    <ItemGroup>
+      <Folder Include="Abstractions\" />
+      <Folder Include="Abstractions\Behaviors\" />
+      <Folder Include="Abstractions\Data\" />
+      <Folder Include="Abstractions\Serilog\" />
+      <Folder Include="Caching\" />
+      <Folder Include="Messaging\" />
+      <Folder Include="Exceptions\" />
+      <Folder Include="User\" />
+      <Folder Include="User\Commands\" />
+      <Folder Include="User\Queries\" />
+    </ItemGroup>
+</Project>

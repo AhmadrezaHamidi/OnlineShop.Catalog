@@ -1,0 +1,42 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <None Remove="Caching\" />
+      <None Remove="Configurations\" />
+      <None Remove="Data\" />
+      <None Remove="Data\Repositories\" />
+      <None Remove="ExternalServices\" />
+      <None Remove="CustomeLogger\" />
+    </ItemGroup>
+    <ItemGroup>
+      <Folder Include="Caching\" />
+      <Folder Include="Configurations\" />
+      <Folder Include="Data\" />
+      <Folder Include="Data\Repositories\" />
+      <Folder Include="ExternalServices\" />
+      <Folder Include="CustomeLogger\" />
+    </ItemGroup>
+<ItemGroup>
+  <PackageReference Include="Asp.Versioning.Mvc" Version="6.0.0" />
+  <PackageReference Include="Asp.Versioning.Mvc.ApiExplorer" Version="6.0.0" />
+  <PackageReference Include="AspNetCore.HealthChecks.Redis" Version="6.0.0" />
+  <PackageReference Include="EFCore.NamingConventions" Version="7.0.2" />
+  <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.2">
+    <PrivateAssets>all</PrivateAssets>
+    <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+  </PackageReference>
+  <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.2" />
+  <PackageReference Include="Microsoft.Extensions.Caching.StackExchangeRedis" Version="7.0.0" />
+  <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="7.0.0" />
+  <PackageReference Include="AspNetCore.HealthChecks.Uris" Version="7.0.0" />
+</ItemGroup>
+    <ItemGroup>
+      <ProjectReference Include="..\Application\Application.csproj" />
+    </ItemGroup>
+</Project>

@@ -1,0 +1,6 @@
+/Users/ahmadhfr/Documents/Tallar/BaseShop/Api/obj/Debug/net6.0/Api.csproj.AssemblyReference.cache
+/Users/ahmadhfr/Documents/Tallar/BaseShop/Api/obj/Debug/net6.0/Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmadhfr/Documents/Tallar/BaseShop/Api/obj/Debug/net6.0/Api.AssemblyInfoInputs.cache
+/Users/ahmadhfr/Documents/Tallar/BaseShop/Api/obj/Debug/net6.0/Api.AssemblyInfo.cs
+/Users/ahmadhfr/Documents/Tallar/BaseShop/Api/obj/Debug/net6.0/Api.csproj.CoreCompileInputs.cache
+/Users/ahmadhfr/Documents/Tallar/BaseShop/Api/obj/Debug/net6.0/Api.MvcApplicationPartsAssemblyInfo.cache
